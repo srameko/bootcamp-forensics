@@ -1,0 +1,19 @@
+{
+  "name": "Slidev",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-20",
+  "postCreateCommand": "npm install",
+  "forwardPorts": [3030],
+  "portsAttributes": {
+    "3030": {
+      "label": "Slidev",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "antfu.slidev"
+      ]
+    }
+  }
+}
