@@ -2,3 +2,4 @@ node_modules
 .output
 dist
 components.d.ts
+index.html
