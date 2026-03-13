@@ -18,7 +18,7 @@ theme/                 ← Czechitas theme (DO NOT modify without good reason)
   layouts/             ← Vue layouts: bio, cover, section, default, image-right, center
   components/          ← CzechitasLogo.vue, QRCode.vue
   styles/index.css     ← brand CSS variables and global styles
-  assets/              ← Czechitas logos and illustrations
+  assets/              ← Czechitas logos and illustrations (may be empty)
 ```
 
 ## What CHANGES between courses
@@ -210,11 +210,11 @@ Styles are defined in `theme/styles/index.css`. Use standard Markdown tables —
 ## Running, deploying and exporting
 
 ### Deploy — GitHub Pages
-Deploy triggers automatically on push to `main` via GitHub Actions (`.github/workflows/deploy-slides.yml`).
+Deploy triggers automatically on push to `main` via GitHub Actions (`.github/workflows/deploy.yml`).
 URL pattern: `https://srameko.github.io/<repo-name>/`
-The base path in `package.json` must match the repository name:
-```json
-"build": "slidev build --base /<repo-name>/ --out dist"
+The base path is passed as a CLI argument in the workflow, not in `package.json`:
+```yaml
+run: npm run build -- --base /<repo-name>/
 ```
 
 ### PDF export
