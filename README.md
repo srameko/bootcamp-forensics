@@ -9,4 +9,4 @@ https://srameko.github.io/bootcamp-forensics/
 
 ## Download PDF
 
-https://github.com/srameko/bootcamp-forensics/raw/main/bootcamp-forensics.pdf
+https://srameko.github.io/bootcamp-forensics/bootcamp-forensics.pdf
