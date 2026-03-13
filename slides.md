@@ -3,7 +3,8 @@ theme: ./theme
 title: Forensics Analysis
 author: Ondřej Šrámek
 mdc: true
-shiki: theme
+shiki:
+  theme: github-light
 fonts:
   sans: Open Sans
   mono: Source Code Pro
