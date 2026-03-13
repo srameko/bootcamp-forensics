@@ -212,9 +212,9 @@ Styles are defined in `theme/styles/index.css`. Use standard Markdown tables —
 ### Deploy — GitHub Pages
 Deploy triggers automatically on push to `main` via GitHub Actions (`.github/workflows/deploy.yml`).
 URL pattern: `https://srameko.github.io/<repo-name>/`
-The base path is passed as a CLI argument in the workflow, not in `package.json`:
-```yaml
-run: npm run build -- --base /<repo-name>/
+The base path is baked into the `build` script in `package.json`:
+```json
+"build": "slidev build --base /<repo-name>/ --out dist"
 ```
 
 ### PDF export
@@ -223,6 +223,7 @@ PDF is exported automatically in CI via:
 run: npx slidev export --output dist/<repo-name>.pdf
 ```
 Do NOT add `playwright install-deps` — it is not needed.
+`playwright-chromium` in devDependencies is sufficient.
 After deploy the PDF is accessible at:
 `https://srameko.github.io/<repo-name>/<repo-name>.pdf`
 
