@@ -218,10 +218,13 @@ run: npm run build -- --base /<repo-name>/
 ```
 
 ### PDF export
-Export locally from the dev server: run `npm run dev`, then use the menu **Export → PDF**.
-Name the PDF the same as the repository, e.g. `cybersecurity-for-testing.pdf`, and commit it to the repository root.
-After deploy the file is accessible via GitHub raw link:
-`https://github.com/srameko/<repo-name>/raw/main/<repo-name>.pdf`
+PDF is exported automatically in CI via:
+```yaml
+run: npx slidev export --output dist/<repo-name>.pdf
+```
+Do NOT add `playwright install-deps` — it is not needed.
+After deploy the PDF is accessible at:
+`https://srameko.github.io/<repo-name>/<repo-name>.pdf`
 
 ---
 
