@@ -1,5 +1,5 @@
 ---
-layout: subtitle
+layout: section
 subtitle: section
 ---
 

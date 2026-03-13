@@ -1,5 +1,5 @@
 ---
-layout: subtitle
+layout: section
 subtitle: section
 ---
 
@@ -43,7 +43,7 @@ Sometimes full scale is **not needed** (no lawsuit)
 - Context!
 
 ---
-layout: subtitle
+layout: section
 subtitle: section
 ---
 
