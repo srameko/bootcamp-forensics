@@ -18,7 +18,7 @@ theme/                 ← Czechitas theme (DO NOT modify without good reason)
   layouts/             ← Vue layouts: bio, cover, section, default, image-right, center
   components/          ← CzechitasLogo.vue, QRCode.vue
   styles/index.css     ← brand CSS variables and global styles
-  assets/              ← Czechitas logos and illustrations (may be empty)
+  assets/              ← Czechitas logos and illustrations
 ```
 
 ## What CHANGES between courses
@@ -99,8 +99,8 @@ image: /image-name.png
 # Heading
 Text on the left…
 ```
-Column ratio is **2:3** (text : image) — image intentionally dominates.
-Defined in `theme/layouts/image-right.vue` as `grid-template-columns: 2fr 3fr`.
+Column ratio is **3:2** (text : image) — text side is wider.
+Defined in `theme/layouts/image-right.vue` as `grid-template-columns: 3fr 2fr`.
 
 **Image-only slides** (no body text): always keep `# Heading` for slide annotations in the overview. The Czechitas logo in the bottom-right corner is added automatically by the layout footer.
 ```md
@@ -253,3 +253,4 @@ https://github.com/srameko/<repo-name>/raw/main/<repo-name>.pdf
 - **bio layout without QR** — simply omit the `::qr::` slot, the layout works fine without it.
 - **Gradient missing on section slide** — the `section` layout applies `.czechitas-gradient-bg` automatically. On `default` layout add it manually via `<div class="czechitas-gradient-bg">`.
 - **Frontmatter in src files** — every slide file in `/slides/*.md` must start with its own `---` frontmatter block defining the layout.
+- **Wrong layout name** — chapter divider slides use `layout: section`, not `layout: subtitle`. There is no `subtitle` layout in the theme.
