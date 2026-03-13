@@ -30,6 +30,7 @@ jobs:
 
       - name: Export PDF
         run: npx slidev export --output dist/bootcamp-forensics.pdf
+        continue-on-error: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
