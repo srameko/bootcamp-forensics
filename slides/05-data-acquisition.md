@@ -24,7 +24,7 @@ layout: default
 # Mobile Device Acquisition
 
 <div class="flex justify-center">
-  <img src="/mobile-acquisition.jpg" alt="Mobile Device Acquisition" class="h-80 rounded-lg shadow" />
+  <img src="/mobile-device-acquisition.jpg" alt="Mobile Device Acquisition" class="h-80 rounded-lg shadow" />
 </div>
 
 ---
@@ -73,7 +73,7 @@ layout: default
 # KAPE GUI
 
 <div class="flex justify-center">
-  <img src="/kape-gui.jpg" alt="KAPE GUI" class="h-80 rounded-lg shadow" />
+  <img src="/kape-gui.png" alt="KAPE GUI" class="h-80 rounded-lg shadow" />
 </div>
 
 ---
@@ -112,5 +112,5 @@ layout: default
 # Splunk / Timeline Explorer
 
 <div class="flex justify-center">
-  <img src="/splunk-timeline.jpg" alt="Splunk and Timeline Explorer" class="h-80 rounded-lg shadow" />
+  <img src="/splunk-timesketch-timeline.jpg" alt="Splunk and Timeline Explorer" class="h-80 rounded-lg shadow" />
 </div>

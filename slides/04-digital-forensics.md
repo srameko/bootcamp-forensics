@@ -14,7 +14,7 @@ layout: default
 # This is NOT Forensics
 
 <div class="flex justify-center">
-  <img src="/csi-cyber.jpg" alt="CSI Cyber" class="h-80 rounded-lg shadow" />
+  <img src="/not-forensics.jpg" alt="CSI Cyber" class="h-80 rounded-lg shadow" />
 </div>
 
 ---
@@ -24,7 +24,7 @@ layout: default
 # This is How It Works
 
 <div class="flex justify-center">
-  <img src="/air-crash.jpg" alt="Air Crash Investigation" class="h-80 rounded-lg shadow" />
+  <img src="/aircrash-investigation.jpg" alt="Air Crash Investigation" class="h-80 rounded-lg shadow" />
 </div>
 
 ---
