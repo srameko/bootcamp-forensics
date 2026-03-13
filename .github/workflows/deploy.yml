@@ -25,14 +25,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install Playwright system dependencies
-        run: npx playwright install-deps chromium
-
       - name: Build
         run: npm run build -- --base /bootcamp-forensics/
 
       - name: Export PDF
-        run: npm run export -- --output dist/forensics-analysis.pdf
+        run: npx slidev export --output dist/bootcamp-forensics.pdf
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
