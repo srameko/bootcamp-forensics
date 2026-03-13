@@ -27,17 +27,6 @@ Worked in the public sector and commercial sector
 Linktree
 
 ---
-layout: bio
-image: /katerina.png
-name: "Kateřina Henclová"
-subtitle: "Cyber Security Coach"
----
-
-Currently works as a cybersecurity intern and studies cybersecurity at FI MUNI
-
-Likes CTF challenges, Threat Intelligence and OSINT
-
----
 src: ./slides/00-license.md
 ---
 
