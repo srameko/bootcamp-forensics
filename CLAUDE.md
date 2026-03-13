@@ -210,7 +210,7 @@ Styles are defined in `theme/styles/index.css`. Use standard Markdown tables —
 ## Running, deploying and exporting
 
 ### Deploy — GitHub Pages
-Deploy triggers automatically on push to `main` via GitHub Actions (`.github/workflows/deploy.yml`).
+Deploy triggers automatically on push to `main` via GitHub Actions (`.github/workflows/build-deploy.yml`).
 URL pattern: `https://srameko.github.io/<repo-name>/`
 The base path is baked into the `build` script in `package.json`:
 ```json
@@ -245,7 +245,7 @@ https://srameko.github.io/<repo-name>/
 
 ## Download PDF
 
-https://github.com/srameko/<repo-name>/raw/main/<repo-name>.pdf
+[<repo-name>.pdf](https://srameko.github.io/<repo-name>/<repo-name>.pdf
 
 ```
 
