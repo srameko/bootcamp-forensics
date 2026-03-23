@@ -19,4 +19,5 @@ layout: default
 - 💾 Data Acquisition
 - 📂 Artifact Analysis
 - 🧠 Memory Analysis
+- 🤖 AI in Forensic Analysis
 - 🕵️ Forensics Challenge
