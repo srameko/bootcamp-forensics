@@ -43,7 +43,7 @@ jobs:
         run: npx slidev export --output dist/bootcamp-forensics.pdf
 
       - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: dist
 
