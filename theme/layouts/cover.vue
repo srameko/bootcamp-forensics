@@ -79,7 +79,7 @@ defineProps({
   transform: translateY(-55%);
 }
 .cover-character img {
-  height: 420px;
+  height: 380px;
   width: auto;
   object-fit: contain;
 }
