@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: section
 ---
 
 # Environment

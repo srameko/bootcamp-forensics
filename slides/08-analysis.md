@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: section
 ---
 
 # (Real World) Examples
