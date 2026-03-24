@@ -19,13 +19,10 @@ name: "Ondřej Šrámek"
 subtitle: "GMON GNFA GCTI"
 ---
 
-Worked in the public sector and commercial sector
-
-12+ years in the field, primarily Incident Response, DFIR, Threat Hunting and Threat Intelligence
-
+- Worked in the public sector and commercial sector
+- 12+ years in the field, primarily Incident Response, DFIR, Threat Hunting and Threat Intelligence
 ::qr::
-
-Linktree
+<QRCode url="https://linktr.ee/ondrejsramek" :size="120">Linktree</QRCode>
 
 ---
 src: ./slides/00-license.md
