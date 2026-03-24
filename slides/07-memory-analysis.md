@@ -4,8 +4,6 @@ layout: section
 
 # Memory Analysis
 
-Volatility
-
 ---
 layout: default
 ---

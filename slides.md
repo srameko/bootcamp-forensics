@@ -82,7 +82,7 @@ layout: center
 
 Ondřej Šrámek
 
-Czechitas · DA Cybersecurity · 2026
+**Czechitas · DA Cybersecurity · 2026**
 
 ---
 layout: center

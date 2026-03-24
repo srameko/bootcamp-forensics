@@ -40,16 +40,19 @@ Defanging is a security practice that modifies potentially malicious indicators 
 | `name.surname@example.com` | `name[.]surname@example[.]com` |
 
 ---
-layout: default
+layout: image-right
+image: /diamond-model.jpg
 ---
 
 # Diamond Model
 
 Overlaps between attacks — two identical parts
 
-<div class="flex justify-center">
-  <img src="/diamond-model.jpg" alt="Diamond Model" class="h-64 rounded-lg shadow" />
-</div>
+<style>
+.slidev-layout.image-right {
+  grid-template-columns: 2fr 3fr !important;
+}
+</style>
 
 ---
 layout: default

@@ -5,8 +5,6 @@ subtitle: section
 
 # Forensics Challenge
 
-What happened?
-
 ---
 layout: default
 ---

@@ -4,8 +4,6 @@ layout: section
 
 # Digital Forensics
 
-CSI Cyber vs. Air Crash Investigation
-
 ---
 layout: default
 ---

@@ -4,8 +4,6 @@ layout: section
 
 # Agenda
 
-What's ahead today
-
 ---
 layout: default
 ---
