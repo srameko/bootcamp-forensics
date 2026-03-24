@@ -72,6 +72,7 @@ subtitle: Optional subtitle
 # Section Title
 ```
 Czechitas gradient background, large white heading. Use before every new chapter.
+Omit `subtitle` entirely if there is no real subtitle — do not use placeholder values like `subtitle: section`.
 
 ### `bio` — lecturer slide
 ```md
