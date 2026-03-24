@@ -71,26 +71,6 @@ layout: default
 layout: default
 ---
 
-# Findings
-
-<br/>
-
-> Take notes and prepare your short presentation
-
----
-layout: default
----
-
-# What Are Your Findings?
-
-<br/>
-
-> Present to the group — 5 minutes each
-
----
-layout: default
----
-
 # Feedback
 
 **Executive Summary**
