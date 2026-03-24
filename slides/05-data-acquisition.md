@@ -43,12 +43,9 @@ Sometimes full scale is **not needed** (no lawsuit)
 
 ---
 layout: section
-subtitle: section
 ---
 
 # Artifact Collection
-
-KAPE
 
 ---
 layout: default
