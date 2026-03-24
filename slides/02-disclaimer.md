@@ -1,13 +1,4 @@
 ---
-layout: section
-subtitle: section
----
-
-# Disclaimer
-
-With great power comes great responsibility
-
----
 layout: default
 ---
 
