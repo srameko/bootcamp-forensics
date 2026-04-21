@@ -48,7 +48,8 @@ layout: section
 # Artifact Collection
 
 ---
-layout: default
+layout: image-right
+image: /kape.png
 ---
 
 # KAPE
