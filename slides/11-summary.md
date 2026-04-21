@@ -39,16 +39,16 @@ layout: default
 # Other Challenges
 
 **General**
-- THM, Case B4DM755
-- THM, KAPE
-- THM, Timeline Analysis
+- THM, [Case B4DM755](https://tryhackme.com/room/caseb4dm755)
+- THM, [KAPE](https://tryhackme.com/room/kape)
+- THM, [Timeline Analysis](https://tryhackme.com/room/dfirtimelineanalysis)
 
 **Windows**
-- THM, Compromised Windows
-- THM, Windows Forensics 1
+- THM, [Compromised Windows](https://tryhackme.com/room/compromisedwindowsanalysis)
+- THM, [Windows Forensics 1](https://tryhackme.com/room/windowsforensics1)
 
 **macOS**
-- THM, macOS Basics
+- THM, [macOS Basics](https://tryhackme.com/room/macosforensicsbasics)
 
 ---
 layout: default
