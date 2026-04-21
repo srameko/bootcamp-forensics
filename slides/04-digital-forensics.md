@@ -48,7 +48,7 @@ layout: section
 
 # What Are We Looking For?
 
-**Artifacts vs. Confirmation of Presence**
+Artifacts vs. Confirmation of Presence
 
 ---
 layout: default
