@@ -16,10 +16,9 @@ layout: default
 
 # Write Down Your Notes
 
-At the end of the day I would like to hear your (short) presentation
+Context matters!
 
-- Short summary of the findings (one case that we will examine)
-- 5 minutes
-- It is up to you if one or more will be presenting
-- We will be playing **CISO / CEO / CTO**
-- Expect some questions
+- Paper vs. Flipchart vs. DFIR-IRIS
+- MISP/OpenCTI/Case Management (The Hive)
+- Map findings to MITRE ATT&CK TTPs
+- (Super)Timeline!
