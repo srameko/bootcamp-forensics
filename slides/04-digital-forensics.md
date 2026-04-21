@@ -43,7 +43,7 @@ layout: default
   - Evidence bag (antistatic)
 
 ---
-layout: default
+layout: section
 ---
 
 # What Are We Looking For?
