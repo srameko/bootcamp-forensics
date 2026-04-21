@@ -30,7 +30,7 @@ layout: default
 | [Digital Forensics](https://www.circl.lu/services/training/#file-system-post-mortem-forensic-analysis) | CIRCL |
 | Practice rooms | [TryHackMe](https://tryhackme.com/) · [LetsDefend](https://letsdefend.io/) |
 | Certifications | [SANS (GIAC)](https://www.sans.org/emea) · [EC-Council](https://www.eccouncil.org/) |
-| Mobile OS Images | Various |
+| Mobile OS Images | [Public Images](https://thebinaryhick.blog/public_images/) |
 
 ---
 layout: default
@@ -64,4 +64,4 @@ layout: default
 | [EZ-Tools](https://ericzimmerman.github.io/) | Eric Zimmerman's forensic tools |
 | [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape) | Artifact parser and extractor |
 | [Autopsy](https://www.autopsy.com/) | Open source digital forensics platform |
-| SANS Cheat Sheet Booklet | Quick reference for forensic analysts |
+| [SANS Cheat Sheet Booklet](https://www.sans.org/posters/sans-dfir-cheatsheet-booklet/) | Quick reference for forensic analysts |
