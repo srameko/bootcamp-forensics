@@ -5,9 +5,16 @@ author: Ondřej Šrámek
 mdc: true
 shiki:
   theme: github-light
+favicon: /favicon.png
 fonts:
   sans: Open Sans
   mono: Source Code Pro
+---
+---
+layout: cover
+subtitle: Digital Academy — Cybersecurity
+author: Ondřej Šrámek
+date: 2026
 ---
 
 # Forensics Analysis
@@ -16,7 +23,7 @@ fonts:
 layout: bio
 image: /ondrej.png
 name: "Ondřej Šrámek"
-subtitle: "GMON GNFA GCTI"
+subtitle: "GMON, GNFA, GCTI"
 ---
 
 - Worked in the public sector and commercial sector
@@ -90,4 +97,5 @@ layout: center
 
 # Feedback
 
-We'd love to hear your feedback!
+<!-- TODO: Replace URL with the actual feedback form link -->
+<QRCode url="https://moje.czechitas.cz/cs/zpetna-vazba" :size="200">Feedback form</QRCode>

@@ -1,5 +1,5 @@
 <script setup>
-import characterImg from '../assets/czechitas-woman-laptop.png'
+import characterImg from '../assets/czechitas_lidi.png'
 
 defineProps({
   subtitle: { type: String, default: '' },
@@ -79,7 +79,7 @@ defineProps({
   transform: translateY(-55%);
 }
 .cover-character img {
-  height: 380px;
+  height: 420px;
   width: auto;
   object-fit: contain;
 }
