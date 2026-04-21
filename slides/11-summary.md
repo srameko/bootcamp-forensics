@@ -25,11 +25,11 @@ layout: default
 
 | Course | Provider |
 |--------|----------|
-| Forensic Training | CESNET (FLAB) |
-| Introduction to Memory Analysis | CZ.NIC |
-| Digital Forensics | CIRCL |
-| Practice rooms | TryHackMe · LetsDefend |
-| Certifications | SANS (GIAC) · EC-Council |
+| [Forensic Training](https://flab.cesnet.cz/cs/skoleni-forenzni-trenink-1-uvod) | CESNET (FLAB) |
+| [Introduction to Memory Analysis](https://akademie.nic.cz/akademie/course/177/detail/) | CZ.NIC |
+| [Digital Forensics](https://www.circl.lu/services/training/#file-system-post-mortem-forensic-analysis) | CIRCL |
+| Practice rooms | [TryHackMe](https://tryhackme.com/) · [LetsDefend](https://letsdefend.io/) |
+| Certifications | [SANS (GIAC)](https://www.sans.org/emea) · [EC-Council](https://www.eccouncil.org/) |
 | Mobile OS Images | Various |
 
 ---
