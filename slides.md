@@ -10,7 +10,6 @@ fonts:
   sans: Open Sans
   mono: Source Code Pro
 ---
----
 layout: cover
 subtitle: Digital Academy — Cybersecurity
 author: Ondřej Šrámek

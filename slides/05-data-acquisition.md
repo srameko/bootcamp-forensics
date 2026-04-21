@@ -78,19 +78,26 @@ layout: default
 
 # KAPE — Configuration
 
-Run as **Admin**, sync with GitHub
+<div class="flex gap-8 items-start">
+  <div>
 
-**Target**
-- `!SANS_Triage`
-- `!BasicCollection`
-- Container: **None**
+<p>Run as <strong>Admin</strong>, sync with GitHub</p>
 
-**Module**
-- `!EZParser`
-- Export format: **JSON**
+<p><strong>Target</strong></p>
+<ul>
+  <li><code>!SANS_Triage</code></li>
+  <li><code>!BasicCollection</code></li>
+  <li>Container: <strong>None</strong></li>
+</ul>
 
-<div class="flex justify-center">
-  <img src="/kape.png" alt="KAPE" class="h-72 rounded-lg shadow" />
+<p><strong>Module</strong></p>
+<ul>
+  <li><code>!EZParser</code></li>
+  <li>Export format: <strong>JSON</strong></li>
+</ul>
+
+  </div>
+  <img src="/kape.png" alt="KAPE" class="h-72 rounded-lg shadow shrink-0" />
 </div>
 
 ---
