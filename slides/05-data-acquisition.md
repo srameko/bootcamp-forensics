@@ -53,9 +53,6 @@ layout: default
 
 # KAPE
 
-<div class="flex gap-8 items-start">
-  <div>
-
 **Artifact parser and Extractor** — [official site](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)
 
 **Targets** — what will be grabbed
@@ -64,10 +61,6 @@ layout: default
 - Live
 
 **Modules** — how to process data
-
-  </div>
-  <img src="/kape.png" alt="KAPE" class="h-72 rounded-lg shadow shrink-0" />
-</div>
 
 ---
 layout: default
@@ -95,6 +88,10 @@ Run as **Admin**, sync with GitHub
 **Module**
 - `!EZParser`
 - Export format: **JSON**
+
+<div class="flex justify-center">
+  <img src="/kape.png" alt="KAPE" class="h-72 rounded-lg shadow" />
+</div>
 
 ---
 layout: default
