@@ -11,14 +11,11 @@ fonts:
   mono: Source Code Pro
 ---
 
----
-layout: cover
-subtitle: Digital Academy — Cybersecurity
-author: Ondřej Šrámek
-date: 2026
----
-
 # Forensics Analysis
+
+From Incident Response to Digital Forensics
+
+Ondřej Šrámek · Czechitas · 2026
 
 ---
 layout: bio
