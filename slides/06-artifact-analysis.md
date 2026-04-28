@@ -51,7 +51,7 @@ layout: default
 Overlaps between attacks — two identical parts
 
   </div>
-  <img src="/diamond-model.jpg" alt="Diamond Model" class="h-72 rounded-lg shadow shrink-0" />
+  <img src="/diamond.jpeg" alt="Diamond Model" class="h-72 rounded-lg shadow shrink-0" />
 </div>
 
 ---
