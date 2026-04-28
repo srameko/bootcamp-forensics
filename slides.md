@@ -59,15 +59,15 @@ src: ./slides/07-memory-analysis.md
 ---
 
 ---
+src: ./slides/10-forensics-challenge.md
+---
+
+---
 src: ./slides/08-analysis.md
 ---
 
 ---
 src: ./slides/09-ai-forensics.md
----
-
----
-src: ./slides/10-forensics-challenge.md
 ---
 
 ---
