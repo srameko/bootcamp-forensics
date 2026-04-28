@@ -97,7 +97,7 @@ layout: default
 </ul>
 
   </div>
-  <img src="/kape.png" alt="KAPE" class="h-72 rounded-lg shadow shrink-0" />
+  <img src="/kape-config.png" alt="KAPE" class="h-72 rounded-lg shadow shrink-0" />
 </div>
 
 ---
@@ -119,5 +119,5 @@ layout: default
 # Splunk / Timeline Explorer
 
 <div class="flex justify-center">
-  <img src="/demo.png" alt="Splunk and Timeline Explorer" class="h-80 rounded-lg shadow" />
+  <img src="/timeline-demo.png" alt="Splunk and Timeline Explorer" class="h-80 rounded-lg shadow" />
 </div>

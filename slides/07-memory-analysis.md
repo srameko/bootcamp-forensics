@@ -36,7 +36,7 @@ layout: default
 # Volatility — Example
 
 <div class="flex justify-center">
-  <img src="/demo.png" alt="Volatility output" class="h-80 rounded-lg shadow" />
+  <img src="/volatility-demo.png" alt="Volatility output" class="h-80 rounded-lg shadow" />
 </div>
 
 
