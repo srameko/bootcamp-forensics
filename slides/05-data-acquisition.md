@@ -119,5 +119,5 @@ layout: default
 # Splunk / Timeline Explorer
 
 <div class="flex justify-center">
-  <img src="/demo.jpg" alt="Splunk and Timeline Explorer" class="h-80 rounded-lg shadow" />
+  <img src="/demo.png" alt="Splunk and Timeline Explorer" class="h-80 rounded-lg shadow" />
 </div>
