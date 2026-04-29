@@ -32,11 +32,11 @@ layout: default
 
 **General Approach**
 
-- Hash of evidence (log, disc image, …)
+- **Hash** of evidence (log, disc image, …)
 - Source (device) + Path (log/file gathered)
 - Owner
 - Timestamp (when gathered)
-- Malware in archive with infected password
+- Malware in archive with password **infected**
 - Physical specifics
   - Handover protocol
   - Photography of evidence
