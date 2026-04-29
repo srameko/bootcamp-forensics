@@ -37,7 +37,7 @@ const imageSrc = computed(() => {
   position: relative;
   height: 100%;
   background: #ffffff;
-  align-items: center;
+  align-items: start;
 }
 .left-content {
   padding-right: 1rem;
@@ -54,8 +54,8 @@ const imageSrc = computed(() => {
   overflow: hidden;
 }
 .right-image img {
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 80%;
+  max-height: 80%;
   object-fit: contain;
 }
 .footer-logo {
