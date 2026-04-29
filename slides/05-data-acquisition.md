@@ -120,7 +120,7 @@ If you have CSV (as KAPE output), open it in **Timeline Explorer**
 layout: default
 ---
 
-# Splunk / Timeline Explorer
+# Splunk / Timeline Explorer - Demo time
 
 <div class="flex justify-center">
   <img src="/timeline-demo.png" alt="Splunk and Timeline Explorer" class="h-80 rounded-lg shadow" />

@@ -33,7 +33,7 @@ layout: default
 layout: default
 ---
 
-# Volatility — Example
+# Volatility — Demo time
 
 <div class="flex justify-center">
   <img src="/volatility-demo.png" alt="Volatility output" class="h-80 rounded-lg shadow" />

@@ -18,6 +18,8 @@ layout: default
   - `Evidence\Windows2k8_KAPE_CSV.zip` (Timesketch)
   - `Evidence\Windows2k8_KAPE_JSON.zip` (Splunk)
   - `Evidence\Windows2k8_Mem_Dump.zip` (Volatility) — collected later than KAPE
+  - 
+- Password is **infected**
 
 ---
 layout: default
@@ -47,6 +49,8 @@ layout: default
 - Create a hypothesis → ACH
 - Present your findings
 - It is **not needed** to find everything the attacker did
+
+- [CTF]{https://srameko.github.io/forensics-ctf/)
 
 ---
 layout: default
