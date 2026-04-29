@@ -69,8 +69,8 @@ layout: default
 
 # KAPE GUI
 
-<div class="flex justify-center h-full">
-  <img src="/KAPETargetsandModulesExample.gif" alt="KAPE Targets and Modules" class="max-h-full max-w-full rounded-lg shadow object-contain" />
+<div class="flex justify-center">
+  <img src="/KAPETargetsandModulesExample.gif" alt="KAPE Targets and Modules" class="max-w-full rounded-lg shadow object-contain" style="max-height: 420px" />
 </div>
 
 ---
