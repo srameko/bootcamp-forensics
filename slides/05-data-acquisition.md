@@ -62,6 +62,10 @@ layout: default
 
 **Modules** — how to process data
 
+<div class="flex justify-center">
+  <img src="/gKAPE.png" alt="gKAPE GUI" class="h-80 rounded-lg shadow" />
+</div>
+
 ---
 layout: default
 ---
@@ -69,7 +73,7 @@ layout: default
 # KAPE GUI
 
 <div class="flex justify-center">
-  <img src="/kape-gui.png" alt="KAPE GUI" class="h-80 rounded-lg shadow" />
+  <img src="/KAPETargetsandModulesExample.gif" alt="KAPE Targets and Modules" class="h-80 rounded-lg shadow" />
 </div>
 
 ---
@@ -97,7 +101,7 @@ layout: default
 </ul>
 
   </div>
-  <img src="/kape-config.png" alt="KAPE" class="h-72 rounded-lg shadow shrink-0" />
+  <img src="/KapeTriage-EZParser-Demonstration.gif" alt="KAPE Demo" class="h-72 rounded-lg shadow shrink-0" />
 </div>
 
 ---
