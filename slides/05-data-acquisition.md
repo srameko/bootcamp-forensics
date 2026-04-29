@@ -48,7 +48,8 @@ layout: section
 # Artifact Collection
 
 ---
-layout: default
+layout: image-right
+image: /gKAPE.png
 ---
 
 # KAPE
@@ -61,10 +62,6 @@ layout: default
 - Live
 
 **Modules** — how to process data
-
-<div class="flex justify-center">
-  <img src="/gKAPE.png" alt="gKAPE GUI" class="h-80 rounded-lg shadow" />
-</div>
 
 ---
 layout: default
