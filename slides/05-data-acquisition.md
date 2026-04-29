@@ -98,7 +98,7 @@ layout: default
 </ul>
 
   </div>
-  <img src="/KapeTriage-EZParser-Demonstration.gif" alt="KAPE Demo" class="h-72 rounded-lg shadow shrink-0" />
+  <img src="/KapeTriage-EZParser-Demonstration.gif" alt="KAPE Demo" class="h-80 rounded-lg shadow shrink-0 ml-auto" />
 </div>
 
 ---
