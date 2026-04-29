@@ -73,10 +73,11 @@ defineProps({
   margin: 0.15rem 0;
 }
 .cover-character {
-  position: absolute;
-  right: 2rem;
-  top: 50%;
-  transform: translateY(-55%);
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 1rem;
 }
 .cover-character img {
   height: 420px;
