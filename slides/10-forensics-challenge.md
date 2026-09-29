@@ -50,7 +50,7 @@ layout: default
 - Present your findings
 - It is **not needed** to find everything the attacker did
 
-- [CTF]{https://srameko.github.io/forensics-ctf/)
+- [CTF](https://srameko.github.io/forensics-ctf/)
 
 ---
 layout: default
